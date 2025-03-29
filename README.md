@@ -43,3 +43,5 @@ Open `http://localhost:3000` in your browser.
 | Fetch Users    | `GET`    | `/api/users`
 | Update User    | `PUT`    | `/api/users/{id}` 
 | Delete User    | `DELETE` | `/api/users`
+
+
