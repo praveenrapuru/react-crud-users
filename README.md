@@ -35,32 +35,6 @@ npm start
 
 Open `http://localhost:3000` in your browser.
 
-##  Project Structure
-react-crud-users/
-├── node_modules/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── EditUser.js
-│   │   ├── LoginPage.js
-│   │   ├── Pagination.js
-│   │   ├── UserContext.js
-│   │   ├── UserList.js
-│   ├── App.css
-│   ├── App.js
-│   ├── App.test.js
-│   ├── index.css
-│   ├── index.js
-│   ├── logo.svg
-│   ├── reportWebVitals.js
-│   ├── setupTests.js
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── README.md
-├── tailwind.config.js
-
-
 ## API Endpoints Used
 
 | Functionality  |  Method  | Endpoint 
